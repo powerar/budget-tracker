@@ -3,7 +3,9 @@ A simple budget tracking app that allows users to track expenses with or without
 
 # Built With
 * JavaScript
-* Node.js
+* CSS
+* HTML
+* Node
 * Express
 * Mongoose
 

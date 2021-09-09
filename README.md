@@ -1,6 +1,8 @@
 # Budget Tracker
 A simple budget tracking app that allows users to track expenses with or without an internet connection.
 
+ https://gorgeous-wind-cave-29462.herokuapp.com/
+
 # Built With
 * JavaScript
 * CSS
@@ -10,9 +12,10 @@ A simple budget tracking app that allows users to track expenses with or without
 * Mongoose
 
 # How To Use
-1. Enter a transaction name and about
-2. Add or subtract the funds
-3. Tab the menu to install the app to your mobile phone's home screen
+1. Navigate to  https://gorgeous-wind-cave-29462.herokuapp.com/
+2. Enter a transaction name and about
+3. Add or subtract the funds
+4. If using a mobile device, tap the menu to install the app to your mobile phone's home screen
 
 Works with or without an internet connection thanks to caching and service workers!
 
